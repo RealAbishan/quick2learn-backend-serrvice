@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fa2dcf1-2ff2-40e5-9674-6cb397089fb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/quick2learn-backend-serrvice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Book.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Student.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/book.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/student.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seed.js" afterDir="false" />
-    </list>
+    <list default="true" id="8fa2dcf1-2ff2-40e5-9674-6cb397089fb8" name="Changes" comment="Completed Backend Service of the Quick 2 Learn Application" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,11 +65,26 @@
       <updated>1718637670619</updated>
       <workItem from="1718637671649" duration="3158000" />
       <workItem from="1718645538097" duration="150000" />
-      <workItem from="1718645701685" duration="969000" />
+      <workItem from="1718645701685" duration="1418000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed Backend Service of the Quick 2 Learn Application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Backend Service of the Quick 2 Learn Application" />
   </component>
 </project>
